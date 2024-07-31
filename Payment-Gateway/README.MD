@@ -1,0 +1,7 @@
+## Main Objectives/Goals:
+The ​​objective is to build an all-in-one payment solution based on BNBChain’s tech stack, bringing more utilities to stablecoins and BNB within the BNBChain ecosystem. This integrated solution will enhance the functionality and value of digital assets, providing seamless and efficient payment options for users and fostering broader adoption and utility within the ecosystem
+
+## Challenge Description:
+Crypto payments have gained some traction within Web3 and Web2, but their adoption has not met expectations. BNBChain now offers gasless solutions and excels in performance on opBNB, which will significantly lower barriers to mass adoption. With the adoption of BEP336 on opBNB, gas fees are expected to decrease by over 90%, creating a strong synergy with payment solutions.
+
+BNBChain also provides a comprehensive solution to build a dedicated payment Layer 2 (L2), further optimizing user experiences. Moreover, stablecoins on BNBChain are enthusiastic about collaborating closely with these payment platforms. Whether you're a payment gateway connecting merchants or a streaming payment platform supporting payroll, in-game transactions, or other functionalities, BNBChain can meet your requirements. The community eagerly anticipates these advancements in adoption.
